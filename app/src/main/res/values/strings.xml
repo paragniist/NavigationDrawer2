@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="my_image">my image</string>
+    <string name="parag_gupta">Parag Gupta</string>
+    <string name="parag_gupta_mail_vinove_com">parag.gupta@mail.vinove.com</string>
+    <string name="stared">Stared</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="draft">Draft</string>
+    <string name="all_mail">All mail</string>
+    <string name="subheader">Subheader</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+</resources>
